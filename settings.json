@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "stealmyself.aternos.me
-",
+    "ip": "stealmyself.aternos.me",
+
     "port": 19117,
     "version": "",
     "try-creative": false
