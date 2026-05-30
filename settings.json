@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "wac",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "wac",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "stealmyself-sPkR.aternos.me
+    "ip": "stealmyself.aternos.me
 ",
-    "port": 24355,
+    "port": 19117,
     "version": "",
     "try-creative": false
   },
